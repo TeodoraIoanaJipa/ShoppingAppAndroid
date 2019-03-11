@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="what_do_you_need">What do you need?</string>
+    <string name="bags">BAGS</string>
+    <string name="jeans">JEANS</string>
+    <string name="textview">TextView</string>
+    <string name="what_do_you_need_today">What do you need today?</string>
+</resources>
